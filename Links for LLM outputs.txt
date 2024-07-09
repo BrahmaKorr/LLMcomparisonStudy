@@ -1,0 +1,17 @@
+Links for various LLMs propts adn their responses used in this study
+
+Req  LLM  Link
+1-10  BARD	  https://g.co/bard/share/4f62cad1058f	
+11-20  BARD  	https://g.co/bard/share/1c08667cb58f 	 
+
+1-10  Chat GPT3.5  https://chat.openai.com/share/f4447efd-59be-4a9a-a278-dcceace2f5e4 
+11-20  ChatGPT3.5  https://chat.openai.com/share/403f2722-7b42-4491-a514-c980a881c9e7
+
+1-20	gemini link	https://g.co/gemini/share/e4dd501f2279
+
+1-17	claude link	https://claude.ai/chat/1bb35671-844c-49b7-9fcc-0b57e207eb71
+18-20	claude link	https://claude.ai/chat/af105ccc-a54c-455b-aa14-02ab17560129
+
+1-20  ChatGPT4.o  https://chatgpt.com/share/b21a6f2e-9acb-4bac-8028-ea640ab5cfb1
+
+1-20 Llama3  PDFs uploaded
